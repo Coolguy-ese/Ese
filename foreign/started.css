@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 100%;
+    height: 70px;
+    color:black;
+    position: absolute;
+    background-color: rgb(244, 241, 241);
+}
+.text1{
+    
+    margin-left: 60px;
+    margin-top: 13px;
+    font-style: italic;
+    color: white;
+    font-family: arial black;
+    font-size: 30px;
+}
+.icon1{
+    float: right;
+    margin-right: 5cm;
+    margin-top: -45px;
+}
+.all{
+    font-family: agency fb;
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: -40px;
+}
+ul{
+    margin-top: 51px;
+   bottom: 8px;
+    display: block;
+    font-family: arial;
+    color: white;
+    text-align: right;
+    background-color: rgb(93, 98, 93);
+}
+li{
+    display: inline-block;
+    margin-right: 40px;
+    padding: 15px;
+    background: dotted blue;
+   
+  
+}
+li:hover{
+    background-color: blue;
+    font-weight: bold;
+}
+li a{
+    text-decoration: dotted;
+
+}
+ul li a{
+    color: white;
+}
+ul li a:hover{
+    color: red;
+}
+.box2{
+    position: absolute;
+    height: 13cm;
+    width: 100%;
+
+    margin-top: -16px;
+    background-color: rgb(212, 197, 197);
+}
+.pic{
+    margin-top: -258px;
+    height: 450px;
+    margin-left: 23cm;
+    float: right;
+}
+.tex2{
+    
+    margin-left: 200px;
+    margin-top: 200px;
+}
